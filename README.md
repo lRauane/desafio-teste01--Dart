@@ -12,7 +12,7 @@ Este projeto em Dart calcula o somatório de todos os valores inteiros divisíve
 2. Clone este repositório para o seu ambiente local:
 
 ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/lRauane/desafio-teste01--Dart.git
    ```
 
 3. Navegue até o diretório do projeto:
